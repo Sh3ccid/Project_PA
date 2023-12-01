@@ -1,4 +1,4 @@
-import Codigo_2
+from  Codigo_2 import *
 import streamlit as st
 import folium as fl
 from streamlit_folium import folium_static
